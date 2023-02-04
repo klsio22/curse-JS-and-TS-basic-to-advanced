@@ -1,0 +1,18 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# TypeScript cache files
+*.tsbuildinfo
+
+# TypeScript generated code
+*.js
+*.js.map
